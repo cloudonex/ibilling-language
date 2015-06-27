@@ -644,6 +644,7 @@ $_L['pdf_font_help_dejavusanscondensed'] = 'dejavusanscondensed [Embed fonts wit
 $_L['Invoice Total'] = 'Invoice Total';
 $_L['Total Paid'] = 'Total Paid';
 $_L['Unique Invoice URL'] = 'Unique Invoice URL';
+$_L['Unique Quote URL'] = 'Unique Quote URL';
 $_L['Company Name'] = 'Company Name';
 $_L['ATTN'] = 'ATTN'; # The short of Atention, used in invoicing
 
@@ -672,6 +673,7 @@ $_L['No Plugins Available'] = 'No Plugins Available';
 
 $_L['Create New Quote'] = 'Create New Quote';
 $_L['Quotes'] = 'Quotes';
+$_L['Quote'] = 'Quote';
 
 $_L['Choose Features'] = 'Choose Features';
 $_L['Enable Accounting'] = 'Enable Accounting';
@@ -685,6 +687,7 @@ $_L['Stage'] = 'Stage';
 $_L['Draft'] = 'Draft';
 $_L['Delivered'] = 'Delivered';
 $_L['Accepted'] = 'Accepted';
+$_L['On Hold'] = 'On Hold';
 $_L['Lost'] = 'Lost';
 $_L['Dead'] = 'Dead';
 $_L['Reports by Category'] = 'Reports by Category';
@@ -710,13 +713,21 @@ $_L['Page'] = 'Page';
 $_L['of'] = 'of';
 $_L['Loading'] = 'Loading';
 $_L['Payment'] = 'Payment';
-$_L[''] = '';
-$_L[''] = '';
-$_L[''] = '';
-$_L[''] = '';
-$_L[''] = '';
-$_L[''] = '';
-$_L[''] = '';
-$_L[''] = '';
-$_L[''] = '';
-$_L[''] = '';
+$_L['Recipient'] = 'Recipient';
+$_L['Proposal Text'] = 'Proposal Text';
+$_L['quote_help_top'] = 'Displayed at the Top of the Quote';
+$_L['quote_help_footer'] = 'Displayed as a Footer to the Quote';
+$_L['Customer Notes'] = 'Customer Notes';
+$_L['Save n Close'] = 'Save &amp; Close';
+$_L['Quote Created'] = 'Quote Created';
+$_L['Convert to Invoice'] = 'Convert to Invoice';
+$_L['Quote Prefix'] = 'Quote Prefix';
+$_L['quote_number_help'] = 'Keep it Blank to Generate Quote Number Automatically';
+$_L['invoice_number_help'] = 'Keep it Blank to Generate Invoice Number Automatically';
+
+$_L['Public Key'] = 'Public Key';
+$_L['Private Key'] = 'Private Key';
+$_L['Default Account'] = 'Default Account';
+$_L['live or sandbox'] = 'live or sandbox';
+
+

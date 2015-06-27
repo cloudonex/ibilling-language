@@ -654,3 +654,79 @@ $_L['ATTN'] = 'ATTN'; # The short of Atention, used in invoicing
 $_L['Plugins'] = 'Plugins';
 $_L['Payment Successful'] = 'Payment Successful';
 
+
+
+/*
+ * @ From V 2.4.0
+ */
+
+$_L['Installing Plugin'] = 'Installing Plugin';
+$_L['Uninstalling Plugin'] = 'Uninstalling Plugin';
+$_L['Activating Plugin'] = 'Activating Plugin';
+$_L['Deactivating Plugin'] = 'Deactivating Plugin';
+$_L['Deleting Plugin'] = 'Deleting Plugin';
+$_L['Upload Plugin'] = 'Upload Plugin';
+$_L['Unzipping'] = 'Unzipping';
+$_L['Plugin Added'] = 'Plugin Added';
+$_L['No Plugins Available'] = 'No Plugins Available';
+
+$_L['Create New Quote'] = 'Create New Quote';
+$_L['Quotes'] = 'Quotes';
+$_L['Quote'] = 'Quote';
+
+$_L['Choose Features'] = 'Choose Features';
+$_L['Enable Accounting'] = 'Enable Accounting';
+$_L['Enable Invoicing'] = 'Enable Invoicing';
+$_L['Enable Quotes'] = 'Enable Quotes';
+$_L['Enable Client Dashboard'] = 'Enable Client Dashboard / Portal';
+$_L['quote_alias'] = 'Create New Quote / Proposal / Estimate';
+$_L['Date Created'] = 'Date Created';
+$_L['Expiry Date'] = 'Expiry Date';
+$_L['Stage'] = 'Stage';
+$_L['Draft'] = 'Draft';
+$_L['Delivered'] = 'Delivered';
+$_L['Accepted'] = 'Accepted';
+$_L['On Hold'] = 'On Hold';
+$_L['Lost'] = 'Lost';
+$_L['Dead'] = 'Dead';
+$_L['Reports by Category'] = 'Reports by Category';
+//Month Names
+$_L['January'] = 'January';
+$_L['February'] = 'February';
+$_L['March'] = 'March';
+$_L['April'] = 'April';
+$_L['May'] = 'May';
+$_L['June'] = 'June';
+$_L['July'] = 'July';
+$_L['August'] = 'August';
+$_L['September'] = 'September';
+$_L['October'] = 'October';
+$_L['November'] = 'November';
+$_L['December'] = 'December';
+
+
+$_L['Discount Type'] = 'Discount Type';
+$_L['Percentage'] = 'Percentage';
+$_L['Fixed Amount'] = 'Fixed Amount';
+$_L['Page'] = 'Page';
+$_L['of'] = 'of';
+$_L['Loading'] = 'Loading';
+$_L['Payment'] = 'Payment';
+$_L['Recipient'] = 'Recipient';
+$_L['Proposal Text'] = 'Proposal Text';
+$_L['quote_help_top'] = 'Displayed at the Top of the Quote';
+$_L['quote_help_footer'] = 'Displayed as a Footer to the Quote';
+$_L['Customer Notes'] = 'Customer Notes';
+$_L['Save n Close'] = 'Save &amp; Close';
+$_L['Quote Created'] = 'Quote Created';
+$_L['Convert to Invoice'] = 'Convert to Invoice';
+$_L['Quote Prefix'] = 'Quote Prefix';
+$_L['quote_number_help'] = 'Keep it Blank to Generate Quote Number Automatically';
+$_L['invoice_number_help'] = 'Keep it Blank to Generate Invoice Number Automatically';
+
+$_L['Public Key'] = 'Public Key';
+$_L['Private Key'] = 'Private Key';
+$_L['Default Account'] = 'Default Account';
+$_L['live or sandbox'] = 'live or sandbox';
+
+
