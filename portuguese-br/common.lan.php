@@ -648,81 +648,83 @@ $_L['ATTN'] = 'Alerta'; # The short of Atention, used in invoicing
  */
 
 $_L['Plugins'] = 'Plugins';
-$_L['Payment Successful'] = 'Payment Successful';
-
+$_L['Payment Successful'] = 'Pago com sucesso';
 
 
 /*
  * @ From V 2.4.0
  */
-
-$_L['Installing Plugin'] = 'Installing Plugin';
-$_L['Uninstalling Plugin'] = 'Uninstalling Plugin';
-$_L['Activating Plugin'] = 'Activating Plugin';
-$_L['Deactivating Plugin'] = 'Deactivating Plugin';
-$_L['Deleting Plugin'] = 'Deleting Plugin';
-$_L['Upload Plugin'] = 'Upload Plugin';
-$_L['Unzipping'] = 'Unzipping';
-$_L['Plugin Added'] = 'Plugin Added';
-$_L['No Plugins Available'] = 'No Plugins Available';
-
+$_L['Installing Plugin'] = 'Instalando Plugin';
+$_L['Uninstalling Plugin'] = 'Desinstalando Plugin';
+$_L['Activating Plugin'] = 'Ativando Plugin';
+$_L['Deactivating Plugin'] = 'Desativando Plugin';
+$_L['Deleting Plugin'] = 'Removendo Plugin';
+$_L['Upload Plugin'] = 'Enviando Plugin';
+$_L['Unzipping'] = 'Descompactando';
+$_L['Plugin Added'] = 'Plugin adicionado';
+$_L['No Plugins Available'] = 'Nenhum Plugin dispon&iacute;vel';
 $_L['Create New Quote'] = 'Create New Quote';
-$_L['Quotes'] = 'Quotes';
-$_L['Quote'] = 'Quote';
-
-$_L['Choose Features'] = 'Choose Features';
-$_L['Enable Accounting'] = 'Enable Accounting';
-$_L['Enable Invoicing'] = 'Enable Invoicing';
-$_L['Enable Quotes'] = 'Enable Quotes';
-$_L['Enable Client Dashboard'] = 'Enable Client Dashboard / Portal';
-$_L['quote_alias'] = 'Create New Quote / Proposal / Estimate';
-$_L['Date Created'] = 'Date Created';
-$_L['Expiry Date'] = 'Expiry Date';
-$_L['Stage'] = 'Stage';
-$_L['Draft'] = 'Draft';
-$_L['Delivered'] = 'Delivered';
-$_L['Accepted'] = 'Accepted';
-$_L['On Hold'] = 'On Hold';
-$_L['Lost'] = 'Lost';
-$_L['Dead'] = 'Dead';
-$_L['Reports by Category'] = 'Reports by Category';
+$_L['Quotes'] = 'Or&ccedil;amentos';
+$_L['Quote'] = 'Or&ccedil;amento';
+$_L['Choose Features'] = 'Escolha os recursos';
+$_L['Enable Accounting'] = 'Ativar contabilidade';
+$_L['Enable Invoicing'] = 'Ativar faturamento';
+$_L['Enable Quotes'] = 'Ativar cota&ccedil;&otilde;es';
+$_L['Enable Client Dashboard'] = 'Ativar painel do cliente';
+$_L['quote_alias'] = 'Criar novo or&ccedil;amento / proposta / cota&ccedil;&atilde;o';
+$_L['Date Created'] = 'Data de cria&ccedil;&atilde;o';
+$_L['Expiry Date'] = 'Data de expira&ccedil;&atilde;o';
+$_L['Stage'] = 'Etapa';
+$_L['Draft'] = 'Rascunho';
+$_L['Delivered'] = 'Entregue';
+$_L['Accepted'] = 'Aceito';
+$_L['On Hold'] = 'Aguardando';
+$_L['Lost'] = 'Perdido';
+$_L['Dead'] = 'Destru&iacute;do';
+$_L['Reports by Category'] = 'Relat&oacute;rios por Categoria';
 //Month Names
-$_L['January'] = 'January';
-$_L['February'] = 'February';
-$_L['March'] = 'March';
-$_L['April'] = 'April';
-$_L['May'] = 'May';
-$_L['June'] = 'June';
-$_L['July'] = 'July';
-$_L['August'] = 'August';
-$_L['September'] = 'September';
-$_L['October'] = 'October';
-$_L['November'] = 'November';
-$_L['December'] = 'December';
+$_L['January'] = 'Janeiro';
+$_L['February'] = 'Fevereiro';
+$_L['March'] = 'Mar&ccedil;o';
+$_L['April'] = 'Abril';
+$_L['May'] = 'Maio';
+$_L['June'] = 'Junho';
+$_L['July'] = 'Julho';
+$_L['August'] = 'Agosto';
+$_L['September'] = 'Setembro';
+$_L['October'] = 'Outubro';
+$_L['November'] = 'Novembro';
+$_L['December'] = 'Dezembro';
+$_L['Discount Type'] = 'Tipo de desconto';
+$_L['Percentage'] = 'Porcentagem';
+$_L['Fixed Amount'] = 'Valor fixo';
+$_L['Page'] = 'P&aacute;gina';
+$_L['of'] = 'de';
+$_L['Loading'] = 'Carregando';
+$_L['Payment'] = 'Pagamento';
+$_L['Recipient'] = 'Benefici&aacute;rio';
+$_L['Proposal Text'] = 'Texto da proposta';
+$_L['quote_help_top'] = 'Exibido na parte superior do or&ccedil;amento';
+$_L['quote_help_footer'] = 'Exibido no rodap&eacute; do or&ccedil;amento';
+$_L['Customer Notes'] = 'Observa&ccedil;&otilde;es do cliente';
+$_L['Save n Close'] = 'Salvar &amp; Fechar';
+$_L['Quote Created'] = 'Orçamento criado';
+$_L['Convert to Invoice'] = 'Converter or&ccedil;amento em fatura';
+$_L['Quote Prefix'] = 'Prefixo do or&ccedil;amento';
+$_L['quote_number_help'] = 'Mantenha-o em branco para gerar automaticamente o n&uacute;mero do or&ccedil;amento';
+$_L['invoice_number_help'] = 'Mantenha-o em branco para gerar automaticamente o n&uacute;mero da fatura';
+$_L['Public Key'] = 'Chave pública';
+$_L['Private Key'] = 'Chave privada';
+$_L['Default Account'] = 'Conta padr&atilde;o';
+$_L['live or sandbox'] = 'Produ&ccedil;&atilde;o ou Teste';
 
-
-$_L['Discount Type'] = 'Discount Type';
-$_L['Percentage'] = 'Percentage';
-$_L['Fixed Amount'] = 'Fixed Amount';
-$_L['Page'] = 'Page';
-$_L['of'] = 'of';
-$_L['Loading'] = 'Loading';
-$_L['Payment'] = 'Payment';
-$_L['Recipient'] = 'Recipient';
-$_L['Proposal Text'] = 'Proposal Text';
-$_L['quote_help_top'] = 'Displayed at the Top of the Quote';
-$_L['quote_help_footer'] = 'Displayed as a Footer to the Quote';
-$_L['Customer Notes'] = 'Customer Notes';
-$_L['Save n Close'] = 'Save &amp; Close';
-$_L['Quote Created'] = 'Quote Created';
-$_L['Convert to Invoice'] = 'Convert to Invoice';
-$_L['Quote Prefix'] = 'Quote Prefix';
-$_L['quote_number_help'] = 'Keep it Blank to Generate Quote Number Automatically';
-$_L['invoice_number_help'] = 'Keep it Blank to Generate Invoice Number Automatically';
-
-$_L['Public Key'] = 'Public Key';
-$_L['Private Key'] = 'Private Key';
-$_L['Default Account'] = 'Default Account';
-$_L['live or sandbox'] = 'live or sandbox';
-
-
+$_L['Invoice:Invoice Created'] = 'Invoice - Invoice Created';
+$_L['Admin:Password Change Request'] = 'Admin:Password Change Request';
+$_L['Admin:New Password'] = 'Admin - New Password';
+$_L['Invoice:Invoice Payment Reminder'] = 'Invoice:Invoice Payment Reminder';
+$_L['Invoice:Invoice Overdue Notice'] = 'Invoice:Invoice Overdue Notice';
+$_L['Invoice:Invoice Payment Confirmation'] = 'Invoice:Invoice Payment Confirmation';
+$_L['Invoice:Invoice Refund Confirmation'] = 'Invoice:Invoice Refund Confirmation';
+$_L['Quote:Quote Created'] = 'Quote:Quote Created';
+$_L['Send Notifications To'] = 'Send Notifications To';
+$_L['No results found'] = 'No results found';
