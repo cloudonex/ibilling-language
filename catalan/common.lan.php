@@ -655,7 +655,6 @@ $_L['Plugins'] = 'Plugins';
 $_L['Payment Successful'] = 'Payment Successful';
 
 
-
 /*
  * @ From V 2.4.0
  */
@@ -670,7 +669,6 @@ $_L['Unzipping'] = 'Unzipping';
 $_L['Plugin Added'] = 'Plugin Added';
 $_L['No Plugins Available'] = 'No Plugins Available';
 
-$_L['Create New Quote'] = 'Create New Quote';
 $_L['Quotes'] = 'Quotes';
 $_L['Quote'] = 'Quote';
 
@@ -729,4 +727,20 @@ $_L['Private Key'] = 'Private Key';
 $_L['Default Account'] = 'Default Account';
 $_L['live or sandbox'] = 'live or sandbox';
 
+$_L['plugin_drop_help'] = 'Drop Plugin here or click to upload';
+$_L['plugin_upload_help'] = '(Upload Plugin zip file)';
+$_L['Admin'] = 'Admin';
+$_L['Message Body'] = 'Message Body';
 
+$_L['Invoice:Invoice Created'] = 'Invoice - Invoice Created';
+$_L['Admin:Password Change Request'] = 'Admin - Password Change Request';
+$_L['Admin:New Password'] = 'Admin - New Password';
+$_L['Invoice:Invoice Payment Reminder'] = 'Invoice - Invoice Payment Reminder';
+$_L['Invoice:Invoice Overdue Notice'] = 'Invoice - Invoice Overdue Notice';
+$_L['Invoice:Invoice Payment Confirmation'] = 'Invoice - Invoice Payment Confirmation';
+$_L['Invoice:Invoice Refund Confirmation'] = 'Invoice - Invoice Refund Confirmation';
+$_L['Quote:Quote Created'] = 'Quote - Quote Created';
+$_L['Send Notifications To'] = 'Send Notifications To';
+$_L['No results found'] = 'No results found';
+$_L['Quote Deleted Successfully'] = 'Quote Deleted Successfully';
+$_L['Create New Quote'] = 'Create New Quote';
