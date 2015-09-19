@@ -734,3 +734,40 @@ $_L['Send Notifications To'] = 'Enviar notifica&ccedil;&otilde;es para';
 $_L['No results found'] = 'Nenhum resultado encontrado';
 $_L['Quote Deleted Successfully'] = 'Or&ccedil;amento exclu&iacute;do com sucesso';
 $_L['Create New Quote'] = 'Criar novo or&ccedil;amento';
+
+# V3.0.0
+
+$_L['notice_email_as_username'] = 'Por favor use um e-mail v&aacute;lido como nome de usu&aacute;rio';
+$_L['API'] = 'API';
+$_L['API Access'] = 'Acesso a API';
+$_L['Add API Access'] = 'Adicionar acesso a API';
+$_L['Label'] = 'R&oacute;tulo';
+$_L['API Key'] = 'API Chave';
+$_L['Regenerate'] = 'Regerar';
+$_L['Application URL'] = 'URL do sistema';
+
+# V3.1.0
+$_L['API Access Added'] = 'Acesso a API adicionado';
+$_L['select_a_contact'] = 'Please select a Contact';
+$_L['at_least_one_item_required'] = 'At least one item is required';
+$_L['Subject is Required'] = 'Subject is Required';
+$_L['Unique Quote URL'] = 'Unique Quote URL';
+
+# V3.1.0
+$_L['API Access Added'] = 'API Access Added';
+$_L['select_a_contact'] = 'Please select a Contact';
+$_L['at_least_one_item_required'] = 'At least one item is required';
+$_L['Subject is Required'] = 'Subject is Required';
+$_L['Unique Quote URL'] = 'Unique Quote URL';
+
+# V3.3.0
+$_L['Default Invoice Terms'] = 'Default Invoice Terms';
+$_L['Additional Settings'] = 'Additional Settings';
+$_L['cron_invoice_created'] = 'CRON Job - Automatically Send Invoice Created Email';
+
+# V3.4.0
+
+$_L['Invoice Creation Method'] = 'Invoice Creation Method';
+$_L['Default'] = 'Default';
+$_L['V2'] = 'V2';
+

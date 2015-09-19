@@ -1,10 +1,11 @@
 <?php
 /*
 ------------------------------------------
+Last Update : 23 July 2015 by Omar Harbi [tech-u@hotmail.com]
 Language: Arabic
 Author: SERAG ALZENTANI
 Author Email: serag.alzentai@gmail.com
-Author Website: 
+Author Website:
 
 Translated By : SERAG ALZENTANI
 Email:serag.alzentai@gmail.com
@@ -91,8 +92,8 @@ $_L['Name'] = 'الاسم';
 #Texts#النصوص
 $_L['Account_Title'] = 'عنوان الحساب';
 $_L['Edit_Account'] = 'تعديل الحساب';
-$_L['Description'] = 'وصف';
-$_L['Submit'] = 'تسليم';
+$_L['Description'] = 'الوصف';
+$_L['Submit'] = 'ارسال';
 $_L['Transaction'] = 'المعاملة';
 $_L['Add_Repeating_Income'] = 'اضافة ايرادات متكررة';
 $_L['Repeating_Income'] = 'الايرادات المتكررة';
@@ -107,11 +108,11 @@ $_L['View'] = 'عرض';
 $_L['Income'] = 'الايرادات';
 $_L['Expense'] = 'المصروفات';
 $_L['Credit'] = 'دائن';
-$_L['Debit'] = 'مودين';
+$_L['Debit'] = 'مدين';
 $_L['Cancel'] = 'إلغاء';
 $_L['Password'] = 'كلمة السر';
 $_L['Dr'] = 'دائن';
-$_L['Cr'] = 'مودين';
+$_L['Cr'] = 'مدين';
 $_L['Method'] = 'الطريقة';
 $_L['frequency_error'] = 'غير صحيح';
 
@@ -198,7 +199,7 @@ $_L['Dark'] = 'داكن';
 $_L['Blue'] = 'أزرق';
 $_L['Timezone'] = 'التوقيت';
 $_L['Decimal_Point'] = 'العلامة العشرية ';
-$_L['Thousands_Separator'] = 'Thousands Separator';
+$_L['Thousands_Separator'] = 'فاصلة الالوف';
 $_L['Currency_Code'] = 'رمز العملة';
 $_L['Edit_Categories'] = 'تعديل الفئات';
 $_L['cat_del_help_txt'] = 'حذف  الفئات سوف يعيد اعادة تسمية جميع المعاملات تحت فئاة " غير مصنف"  ';
@@ -241,12 +242,12 @@ $_L['Select_Payee'] = 'اختيار المستفيد';
 $_L['Export_for_Print'] = 'التصدير للطباعة';
 $_L['Export_to_PDF'] = 'PDF تحويل للـ ';
 $_L['Manage_Users'] = 'إدارة المستخدمين';
-$_L['Add_New_User'] = 'إضافة مستخدام جديد';
-$_L['Username'] = 'اسم السمتخدام';
+$_L['Add_New_User'] = 'إضافة مستخدم جديد';
+$_L['Username'] = 'اسم المستخدم';
 $_L['Full_Name'] = 'اسم الكامل';
 $_L['user_type_help'] = 'اختيار نوع المستخدم  لتعطيل الوصول إلى إعدادات';
 $_L['Confirm_Password'] = 'تأكيد كلمة المرور';
-$_L['User_Type'] = 'نوع المستخدام';
+$_L['User_Type'] = 'نوع المستخدم';
 $_L['Administrator'] = 'المسؤول';
 $_L['Employee'] = 'موظف';
 $_L['password_change_help'] = 'دع خانة كلمة السر فارغ لعدم التغير كلمة السر';
@@ -257,7 +258,7 @@ $_L['Theme_Color'] = 'لون المنظومة';
 $_L['Default_Language'] = 'اللغة الافتراضية';
 
 
-#Navigation 
+#Navigation
 
 
 
@@ -270,14 +271,14 @@ $_L['New Expense'] = 'إضافة مصاريف';
 $_L['Transfer'] = 'تحويل';
 $_L['View Transactions'] = 'عرض المعاملات';
 $_L['Balance Sheet'] = 'الميزانية العمومية';
-$_L['Sales'] = 'مبيعات';
+$_L['Sales'] = 'المبيعات';
 $_L['Invoices'] = 'الفواتير';
 $_L['Contact_Notes'] = 'ملاحظات';
-$_L['New Invoice'] = 'ايضافة فاتورة جديدة';
-$_L['Add Invoice'] = 'ايضافة فاتورة جديدة';
+$_L['New Invoice'] = 'اضافة فاتورة جديدة';
+$_L['Add Invoice'] = 'اضافة فاتورة جديدة';
 $_L['Recurring Invoices'] = 'الفواتير المتكررة';
 $_L['Manage Recurring Invoices'] = 'تعديل الفواتير المتكررة';
-$_L['New Recurring Invoice'] = 'ايضافة فاتورة متكررة';
+$_L['New Recurring Invoice'] = 'اضافة فاتورة متكررة';
 $_L['Bank n Cash'] = 'البنك &amp; النقدية';
 $_L['New Account'] = 'إضافة حساب';
 $_L['List Accounts'] = 'الحسابات القائمة';
@@ -286,7 +287,7 @@ $_L['Products'] = 'المنتجات';
 $_L['Product'] = 'المنتجات';
 $_L['New Product'] = 'اضافة منتج';
 $_L['Services'] = 'الخدمات';
-$_L['New Service'] = 'اضافة خدامة';
+$_L['New Service'] = 'اضافة خدمة';
 $_L['Reports'] = 'التقارير';
 $_L['Account Statement'] = 'كشف حساب';
 $_L['Reports by Date'] = 'تقارير حسب التاريخ';
@@ -307,8 +308,8 @@ $_L['Change Password'] = 'تغيير كلمة المرور';
 $_L['Logout'] = 'تسجيل خروج';
 $_L['Settings'] = 'الإعدادات';
 $_L['General Settings'] = 'الإعدادات العامة';
-$_L['Localisation'] = 'الترجمة';
-$_L['Manage Users'] = 'دارة المستخدمين';
+$_L['Localisation'] = 'اللغة والمنطقة الزمنية';
+$_L['Manage Users'] = 'ادارة المستخدمين';
 $_L['Payment Gateways'] = 'طرق الدفع';
 $_L['Expense Categories'] = ' أقسام النفقات';
 $_L['Income Categories'] = 'اقسام الايرادات';
@@ -353,12 +354,12 @@ $_L['Message is Empty'] = 'لايوجد اي بيانات في الرسالة';
 $_L['Edit Contact'] = 'تعديل جهة الاتصال';
 $_L['Full Name'] = 'الاسم الكامل';
 $_L['Email'] = 'البريد الإلكتروني';
-$_L['Phone'] = 'هاتف';
-$_L['Address'] = 'عنوان';
-$_L['City'] = 'مدينة';
+$_L['Phone'] = 'الهاتف';
+$_L['Address'] = 'العنوان';
+$_L['City'] = 'المدينه';
 $_L['State Region'] = 'المهنة';
 $_L['ZIP Postal Code'] = 'الرمز البريدي';
-$_L['Country'] = 'بلد';
+$_L['Country'] = 'الدولة';
 $_L['Select Country'] = 'اختر الدولة';
 $_L['Tags'] = 'نوع التسمية';
 $_L['Working'] = 'Working';
@@ -367,8 +368,8 @@ $_L['Set New Goal for Net Worth'] = 'وضع هذف جديد لصافي القي�
 $_L['All Transactions at Date'] = 'جميع المعاملات في تاريخ';
 $_L['Total Income'] = 'إجمالي الإيرادات';
 $_L['Dr'] = 'دائن';
-$_L['Cr'] = 'مودين';
-$_L['New Contact Added'] = 'تم ايضافة جهة اتصال جديدة بنجاح';
+$_L['Cr'] = 'مدين';
+$_L['New Contact Added'] = 'تم اضافة جهة اتصال جديدة بنجاح';
 $_L['Contact Deleted Successfully'] = 'تم حذف جهة اتصال بنجاح';
 $_L['Invoice Deleted Successfully'] = 'تم حذف الفاتورة بنجاح';
 $_L['Tag Deleted Successfully'] = 'تم حذف التسمية بنجاح';
@@ -377,7 +378,7 @@ $_L['Login Successful'] = 'تم التسجيل الدخول بنجاح';
 $_L['Invalid Username or Password'] = 'فشل تسجيل الدخول: اسم المستخدم غير معروف أو كلمة المرور';
 $_L['Failed Login'] = 'فشل تسجيل الدخول';
 $_L['Check your email to reset Password'] = 'تحقق من بريدك الالكتروني لإعادة تعيين كلمة المرور';
-$_L['User Not Found'] = 'اسم المستخدام غير موجود';
+$_L['User Not Found'] = 'اسم المستخدم غير موجود';
 $_L['Invalid Password Reset Key'] = 'Invalid Password Reset Key';
 $_L['Activity'] = 'سجل وأنشطة العميل';
 $_L['Summary'] = 'تفاصيل ملخص';
@@ -388,11 +389,11 @@ $_L['Financial Balances'] = 'الأرصدة المالية';
 $_L['More'] = 'المزيد';
 $_L['Contact Notes'] = 'ملاحظات';
 $_L['Save'] = 'حفظ';
-$_L['Create Recurring Invoice'] = 'ايضافة فاتورة متكررة';
-$_L['Create New Invoice'] = 'ايضافة فاتورة جديدة';
+$_L['Create Recurring Invoice'] = 'اضافة فاتورة متكررة';
+$_L['Create New Invoice'] = 'اضافة فاتورة جديدة';
 $_L['Customer'] = 'اسم العميل';
 $_L['Select Contact'] = 'اختيار جهة الاتصال';
-$_L['Or Add New Customer'] = 'او ايضافة عميل';
+$_L['Or Add New Customer'] = 'او اضافة عميل';
 $_L['Invoice Prefix'] = 'رقم الاشارة';
 $_L['Repeat Every'] = 'تكرار كل يوم';
 $_L['Week'] = 'اسبوع';
@@ -435,11 +436,11 @@ $_L['List Products'] = 'قائمة المنتجات';
 $_L['List Services'] = 'قائمة الخدمات';
 $_L['Sales Price'] = 'سعر البيع';
 $_L['Item Number'] = 'رقم البند';
-$_L['Add TAX'] = 'ايضافة ضريبة';
+$_L['Add TAX'] = 'اضافة ضريبة';
 $_L['Rate'] = 'نسبة ';
 $_L['Back To The List'] = 'العودة إلى القائمة';
-$_L['Add Activity'] = 'ايضافة حركة او نشط جديد';
-$_L['Post'] = 'تسليم';
+$_L['Add Activity'] = 'اضافة حركة او نشط جديد';
+$_L['Post'] = 'موافق';
 $_L['Account Name'] = 'اسم الحساب';
 $_L['Subject'] = 'العنوان';
 $_L['Send'] = 'ارسال';
@@ -448,7 +449,7 @@ $_L['Unpaid'] = 'غير مدفوع';
 $_L['Paid'] = 'مدفوع';
 $_L['Cancelled'] = 'ملغاة';
 $_L['Manage Recurring Invoices'] = 'تعديل الفواتير المتكررة';
-$_L['Add Invoice'] = 'ايضافة فاتورة جديدة';
+$_L['Add Invoice'] = 'اضافة فاتورة جديدة';
 $_L['Upload Picture'] = 'تحميل صورة';
 $_L['Use Gravatar'] = 'استخدام الصورة الافتراضية';
 $_L['No Image'] = 'لا توجد صورة';
@@ -457,7 +458,7 @@ $_L['Facebook Profile'] = 'الصفحة الشخصية للفيس بوك';
 $_L['Google Plus Profile'] = 'الصفحة الشخصية- قوقل+';
 $_L['Linkedin Profile'] = 'الصفحة الشخصية - لينكد ان';
 $_L['Accounting Summary'] = 'ملخص المحاسبة';
-$_L['Dr'] = 'مودين';
+$_L['Dr'] = 'مدين';
 $_L['Cr'] = 'دائن';
 $_L['Add Custom Field'] = 'إضافة حقل مخصص';
 $_L['Field Name'] = 'اسم الحقل';
@@ -479,14 +480,14 @@ $_L['Application Name'] = 'اسم التطبيق / اسم الشركة';
 $_L['This Name will be'] = 'سيظهر هذا الاسم على اللقب، حقوق الطبع والنشر وغيرها.';
 $_L['Theme'] = 'نمظ المنظومة';
 $_L['Style'] = 'نمظ المنظومة';
-$_L['Pay To Address'] = 'دفع إلىعنوان';
+$_L['Pay To Address'] = 'دفع إلى العنوان';
 $_L['You can use html tag'] = 'يمكنك استخدام علامة HTML';
 $_L['Invoice Starting'] = 'ابتداء الفاتورة من';
 $_L['Enter to set the next invoice'] = 'ادخل الرقم الفاتورة الجديد لكي تبداء عملية التسلسلي الجديدة';
 $_L['Keep Blank for'] = 'اترك الخانة فارغ العدم التغير';
 $_L['This will replace existing logo'] = 'اذخال الشعار الجديد -سوف يحل محل الشعار الموجود. يمكنك  تغيير الشعار من خلال استبدال ملف';
 $_L['User Interface'] = 'واجهة المستخدم';
-$_L['Enable Page Loading Animation'] = 'Enable Page Loading Animation?';
+$_L['Enable Page Loading Animation'] = 'تفعيل خاصية تحميل الانميشن';
 $_L['Enable RTL'] = 'تمكين واجهة عربية؟';
 $_L['Logo'] = 'الشعار';
 $_L['Automation'] = 'التشغيل الآلي';
@@ -494,7 +495,7 @@ $_L['Security Token'] = 'رمز الأمان';
 $_L['Re Generate Key'] = 'إعادة إنشاء مفتاح التشفير';
 $_L['to_enable_automation'] = 'لتمكين ميزات التشغيل الآلي تأكد من إعداد وظيفة كرون لتشغيل مرة واحدة يوميا. (على سبيل المثال 9:00).الصباح';
 $_L['Create the following Cron Job using GET'] = 'إنشاء الكرون باستخدام GET: ';
-$_L['Or'] = 'Or';
+$_L['Or'] = 'او';
 $_L['Create the following Cron Job using PHP'] = 'إنشاء وظيفة كرون باستخدام PHP:';
 $_L['Create the following Cron Job using WGET'] = 'إنشاء وظيفة كرون باستخدام WGET:';
 $_L['Generate Daily Accounting Snapshot'] = 'إنشاء صور يومية المنظومة المحاسبية';
@@ -581,9 +582,9 @@ $_L['Add Recurring Invoice'] = 'ضافة فاتورة المتكررة';
 $_L['Due'] = 'Due';
 $_L['Next Invoice'] = 'الفاتورة التالية';
 $_L['Stop Recurring'] = 'إيقاف التكرار';
-$_L['Add Tax'] = 'ايضافة ضريبة';
+$_L['Add Tax'] = 'اضافة ضريبة';
 $_L['Tax Rate'] = 'نسبة الضريبة';
-$_L['Default Country'] = 'بلد الافتراضية';
+$_L['Default Country'] = 'الدولة الافتراضية';
 $_L['Date Format'] = 'صيغة التاريخ';
 $_L['Currency Format'] = 'صيغة العملة';
 $_L['Currency Code'] = 'رمز العملة';
@@ -597,11 +598,11 @@ $_L['Add User'] = 'إضافة مستخدم';
 $_L['Access Level'] = 'مستوي الصلاحية';
 $_L['Full Access'] = 'الصلاحية الكاملة';
 $_L['Loading Users'] = 'مستخدم عادي';
-$_L['Add Payee'] = 'ايضافة المستفيد';
+$_L['Add Payee'] = 'اضافة المستفيد';
 $_L['Manage Payees'] = 'ادارة المستفيدين';
 $_L['Edit Payee'] = 'تعديل بيانات المستفيدين';
 $_L['Edit Payer'] = 'تعديل العملاء';
-$_L['Add Payer'] = 'ايضافة عميل';
+$_L['Add Payer'] = 'اضافة عميل';
 $_L['Manage Payers'] = 'ادارة العملاء';
 $_L['Reorder Payment Gateways'] = 'اعادة ترتيب بوابات الدفع';
 $_L['Gateway Name'] = 'اسم البوابة';
@@ -645,14 +646,14 @@ $_L['To Date'] = 'الي تاريخ';
 $_L['Export for Print'] = 'التصدير للطباعة';
 $_L['Export to PDF'] = 'PDF تحويل للـ';
 $_L['Tag'] = 'التسميات';
-$_L['New Transfer'] = 'ايضافة تحويل مالي';
+$_L['New Transfer'] = 'اضافة تحويل مالي';
 $_L['Recent Transfers'] = 'اخر تحويلات';
-$_L['Add New User'] = 'ايضافة مستخدام جديد';
-$_L['User'] = 'مستخدام';
+$_L['Add New User'] = 'اضافة مستخدم جديد';
+$_L['User'] = 'مستخدم';
 $_L['Full Administrator'] = 'المسؤول';
 $_L['Choose User Type'] = 'اختار نوع الموظف الحجب الصلاحيات';
 $_L['Confirm Password'] = 'تأكيد كلمة المرور';
-$_L['Edit User'] = 'تعديل بيانات المستخدام';
+$_L['Edit User'] = 'تعديل بيانات المستخدم';
 $_L['Clear Old Data'] = 'مسح البيانات القديمة';
 $_L['UID'] = 'UID';
 $_L['IP'] = 'IP';
@@ -674,7 +675,7 @@ $_L['See All Activity'] = 'رؤية جميع الأنشطة';
 $_L['Item Added Successfully'] = 'تم إضافة بند الجديد بنجاح';
 $_L['Password changed successfully'] = 'تم تغيير كلمة المرور بنجاح، يرجى تسجيل الدخول مرة أخرى';
 $_L['Data Updated'] = 'البيانات المحدثة!';
-$_L['Transaction Added Successfully'] = 'تم ايضافة العملية بنجاح';
+$_L['Transaction Added Successfully'] = 'تم اضافة العملية بنجاح';
 $_L['Invalid Number'] = 'عدد غير صالح';
 $_L['Logs has been deleted'] = 'تم حذف السجلات القديمة ';
 $_L['Password Reset Key Expired'] = 'Password Reset Key Expired';
@@ -685,17 +686,17 @@ $_L['You do not have permission'] = 'ليس لديك صلاحية لدخول ل�
 $_L['disabled_in_demo'] = 'This Option is disabled in the Demo Mode';
 $_L['All Fields are Required'] = 'كل الحقول مطلوبة';
 $_L['Invalid System Email'] = 'الايميل غير صالح';
-$_L['smtp_fields_error'] = 'SMTP اسم السمتخدام و كلمة السر و المنفد مطلوبة';
+$_L['smtp_fields_error'] = 'SMTP اسم السمتخدم و كلمة السر و المنفد مطلوبة';
 $_L['Charset Saved Successfully'] = 'Charset Saved Successfully';
 $_L['password_length_error'] = 'يجب أن تكون كلمة المرور الجديدة من 6 الي 14 حرف';
-$_L['Both Password should be same'] = 'Both Password should be same';
+$_L['Both Password should be same'] = 'كلمة المرور يجب ان تكون متطابقة';
 $_L['Incorrect Current Password'] = 'الرقم الحالي غير صحيح';
 $_L['Invalid Logo File'] = 'صيغة الملف غير صحيحة';
 $_L['Invalid TAX Rate'] = 'القيمة غير صحيحة';
-$_L['New TAX Added'] = 'تم ايضافة الضريبة بنجاح';
+$_L['New TAX Added'] = 'تم اضافة الضريبة بنجاح';
 $_L['TAX Not Found'] = 'الضريبة غير موجودة';
 $_L['cron_new_key'] = 'New Key Generated. Please Make Sure to Update The CRON Jobs.';
-$_L['cron_notification'] = 'Please Use a valid Email Address to enable Notification';
+$_L['cron_notification'] = 'فضلاً, استخدم بريد الكتروني صحيح لتفعيه خاصية الاشعارات';
 $_L['Select'] = 'اختيار';
 $_L['Close'] = 'إغلاق';
 $_L['Update'] = 'التحديث';
@@ -703,22 +704,22 @@ $_L['OK'] = 'حسنا';
 $_L['Terms'] = 'شروط';
 
 
-$_L['PDF Font'] = 'PDF Font';
+$_L['PDF Font'] = 'PDF خط';
 $_L['pdf_font_help_default'] = 'Default [Faster PDF Creation with Less Memory]';
 $_L['pdf_font_help_helvetica'] = 'Helvetica'; #Font name
 $_L['pdf_font_help_dejavusanscondensed'] = 'dejavusanscondensed [Embed fonts with supports UTF8]'; # dejavusanscondensed is font name, you can either translate this or you may ignore this word from this string
-$_L['Invoice Total'] = 'Invoice Total';
-$_L['Total Paid'] = 'Total Paid';
+$_L['Invoice Total'] = 'اجمالي الفاتورة';
+$_L['Total Paid'] = 'اجمالي المدفوع';
 
-$_L['Unique Invoice URL'] = 'Unique Invoice URL';
-$_L['Company Name'] = 'Company Name';
+$_L['Unique Invoice URL'] = 'رابط خاصة للفاتورة';
+$_L['Company Name'] = 'اسم الشركة';
 $_L['ATTN'] = 'ATTN'; # The short of Atention, used in invoicing
 
 /*
  * @ From V 2.3.0
  */
 
-$_L['Plugins'] = 'Plugins';
+$_L['Plugins'] = 'الاضافات';
 $_L['Payment Successful'] = 'Payment Successful';
 
 
@@ -726,35 +727,35 @@ $_L['Payment Successful'] = 'Payment Successful';
  * @ From V 2.4.0
  */
 
-$_L['Installing Plugin'] = 'Installing Plugin';
-$_L['Uninstalling Plugin'] = 'Uninstalling Plugin';
-$_L['Activating Plugin'] = 'Activating Plugin';
-$_L['Deactivating Plugin'] = 'Deactivating Plugin';
-$_L['Deleting Plugin'] = 'Deleting Plugin';
-$_L['Upload Plugin'] = 'Upload Plugin';
-$_L['Unzipping'] = 'Unzipping';
-$_L['Plugin Added'] = 'Plugin Added';
-$_L['No Plugins Available'] = 'No Plugins Available';
+$_L['Installing Plugin'] = 'Iتنصيب الاضافة';
+$_L['Uninstalling Plugin'] = 'الغاء تنصيب الاضافة';
+$_L['Activating Plugin'] = 'تفعيل الاضافة';
+$_L['Deactivating Plugin'] = 'تعطيل الاضافة';
+$_L['Deleting Plugin'] = 'حذف الاضافة';
+$_L['Upload Plugin'] = 'رفع الاضافة';
+$_L['Unzipping'] = 'جاري فك الظغط';
+$_L['Plugin Added'] = 'تم اضافة الاضافة';
+$_L['No Plugins Available'] = 'لا توجد اي اضافة متاحة';
 
-$_L['Quotes'] = 'Quotes';
-$_L['Quote'] = 'Quote';
+$_L['Quotes'] = 'عروض الاسعار';
+$_L['Quote'] = 'عرض سعر';
 
-$_L['Choose Features'] = 'Choose Features';
-$_L['Enable Accounting'] = 'Enable Accounting';
-$_L['Enable Invoicing'] = 'Enable Invoicing';
-$_L['Enable Quotes'] = 'Enable Quotes';
+$_L['Choose Features'] = 'اختر المميزات';
+$_L['Enable Accounting'] = 'تفعيل المحاسبة';
+$_L['Enable Invoicing'] = 'تفعيل الفواتير';
+$_L['Enable Quotes'] = 'تفعيل عروض الاسعار';
 $_L['Enable Client Dashboard'] = 'Enable Client Dashboard / Portal';
-$_L['quote_alias'] = 'Create New Quote / Proposal / Estimate';
-$_L['Date Created'] = 'Date Created';
-$_L['Expiry Date'] = 'Expiry Date';
+$_L['quote_alias'] = 'انشاء عرض سعر جديد / Proposal / Estimate';
+$_L['Date Created'] = 'تاريخ الانشاء';
+$_L['Expiry Date'] = 'تاريخ الانتهاء';
 $_L['Stage'] = 'Stage';
-$_L['Draft'] = 'Draft';
+$_L['Draft'] = 'مسوده';
 $_L['Delivered'] = 'Delivered';
 $_L['Accepted'] = 'Accepted';
 $_L['On Hold'] = 'On Hold';
 $_L['Lost'] = 'Lost';
 $_L['Dead'] = 'Dead';
-$_L['Reports by Category'] = 'Reports by Category';
+$_L['Reports by Category'] = 'تقارير حسب التصنيف';
 //Month Names
 $_L['January'] = 'January';
 $_L['February'] = 'February';
@@ -770,24 +771,24 @@ $_L['November'] = 'November';
 $_L['December'] = 'December';
 
 
-$_L['Discount Type'] = 'Discount Type';
-$_L['Percentage'] = 'Percentage';
-$_L['Fixed Amount'] = 'Fixed Amount';
-$_L['Page'] = 'Page';
+$_L['Discount Type'] = 'نوع الخصم';
+$_L['Percentage'] = 'نسبة مئويه';
+$_L['Fixed Amount'] = 'مبلغ محدد';
+$_L['Page'] = 'الصفحة';
 $_L['of'] = 'of';
-$_L['Loading'] = 'Loading';
-$_L['Payment'] = 'Payment';
-$_L['Recipient'] = 'Recipient';
-$_L['Proposal Text'] = 'Proposal Text';
-$_L['quote_help_top'] = 'Displayed at the Top of the Quote';
-$_L['quote_help_footer'] = 'Displayed as a Footer to the Quote';
-$_L['Customer Notes'] = 'Customer Notes';
-$_L['Save n Close'] = 'Save &amp; Close';
-$_L['Quote Created'] = 'Quote Created';
-$_L['Convert to Invoice'] = 'Convert to Invoice';
+$_L['Loading'] = 'جاري التحميل';
+$_L['Payment'] = 'السداد';
+$_L['Recipient'] = 'المستلم';
+$_L['Proposal Text'] = 'نص العرض';
+$_L['quote_help_top'] = 'يعرض في ترويسة عرض السعر';
+$_L['quote_help_footer'] = 'يعرض في اسفل عرض السعر';
+$_L['Customer Notes'] = 'ملاحظات العملاء';
+$_L['Save n Close'] = 'حفظ &amp; اغلاق';
+$_L['Quote Created'] = 'تم انشاء عرض السعر';
+$_L['Convert to Invoice'] = 'تحويل الى فاتورة';
 $_L['Quote Prefix'] = 'Quote Prefix';
-$_L['quote_number_help'] = 'Keep it Blank to Generate Quote Number Automatically';
-$_L['invoice_number_help'] = 'Keep it Blank to Generate Invoice Number Automatically';
+$_L['quote_number_help'] = 'اتركه فارغ لانشاء رقم عرض سعر تلقائياً';
+$_L['invoice_number_help'] = 'اتركه فارغ, لانشاء رقم الفاتورة تلقائياً';
 
 $_L['Public Key'] = 'Public Key';
 $_L['Private Key'] = 'Private Key';
@@ -797,17 +798,46 @@ $_L['live or sandbox'] = 'live or sandbox';
 $_L['plugin_drop_help'] = 'Drop Plugin here or click to upload';
 $_L['plugin_upload_help'] = '(Upload Plugin zip file)';
 $_L['Admin'] = 'Admin';
-$_L['Message Body'] = 'Message Body';
+$_L['Message Body'] = 'نص الرسالة';
 
-$_L['Invoice:Invoice Created'] = 'Invoice - Invoice Created';
-$_L['Admin:Password Change Request'] = 'Admin - Password Change Request';
-$_L['Admin:New Password'] = 'Admin - New Password';
+$_L['Invoice:Invoice Created'] = 'الفواتير- تم انشاء الفاتورة';
+$_L['Admin:Password Change Request'] = 'مدير النظام- طلب تغيير كلمة المرور';
+$_L['Admin:New Password'] = 'مدير النظام- كلمة مرور جديدة';
 $_L['Invoice:Invoice Payment Reminder'] = 'Invoice - Invoice Payment Reminder';
-$_L['Invoice:Invoice Overdue Notice'] = 'Invoice - Invoice Overdue Notice';
+$_L['Invoice:Invoice Overdue Notice'] = 'الفواتير- اشعار استحقاق فاتورة';
 $_L['Invoice:Invoice Payment Confirmation'] = 'Invoice - Invoice Payment Confirmation';
-$_L['Invoice:Invoice Refund Confirmation'] = 'Invoice - Invoice Refund Confirmation';
-$_L['Quote:Quote Created'] = 'Quote - Quote Created';
-$_L['Send Notifications To'] = 'Send Notifications To';
-$_L['No results found'] = 'No results found';
-$_L['Quote Deleted Successfully'] = 'Quote Deleted Successfully';
-$_L['Create New Quote'] = 'Create New Quote';
+$_L['Invoice:Invoice Refund Confirmation'] = 'الفواتير - Invoice Refund Confirmation';
+$_L['Quote:Quote Created'] = 'عرض سعر- تم انشاء عرض السعر';
+$_L['Send Notifications To'] = 'ارسال اشعارات الى';
+$_L['No results found'] = 'لم يتم العثور على اي نتائج';
+$_L['Quote Deleted Successfully'] = 'تم حذف عرض السعر بنجاح';
+$_L['Create New Quote'] = 'انشاء عرض سعر جديد';
+
+# V3.0.0
+
+$_L['notice_email_as_username'] = 'Please use a valid Email address as Username';
+$_L['API'] = 'API';
+$_L['API Access'] = 'API Access';
+$_L['Add API Access'] = 'Add API Access';
+$_L['Label'] = 'Label';
+$_L['API Key'] = 'API Key';
+$_L['Regenerate'] = 'Regenerate';
+$_L['Application URL'] = 'Application URL';
+
+# V3.1.0
+$_L['API Access Added'] = 'API Access Added';
+$_L['select_a_contact'] = 'Please select a Contact';
+$_L['at_least_one_item_required'] = 'At least one item is required';
+$_L['Subject is Required'] = 'Subject is Required';
+$_L['Unique Quote URL'] = 'Unique Quote URL';
+
+# V3.3.0
+$_L['Default Invoice Terms'] = 'Default Invoice Terms';
+$_L['Additional Settings'] = 'Additional Settings';
+$_L['cron_invoice_created'] = 'CRON Job - Automatically Send Invoice Created Email';
+
+# V3.4.0
+
+$_L['Invoice Creation Method'] = 'Invoice Creation Method';
+$_L['Default'] = 'Default';
+$_L['V2'] = 'V2';

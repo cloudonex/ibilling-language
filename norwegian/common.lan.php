@@ -745,3 +745,34 @@ $_L['Send Notifications To'] = 'Send Notifications To';
 $_L['No results found'] = 'No results found';
 $_L['Quote Deleted Successfully'] = 'Quote Deleted Successfully';
 $_L['Create New Quote'] = 'Create New Quote';
+
+# V3.0.0
+
+$_L['notice_email_as_username'] = 'Please use a valid Email address as Username';
+$_L['API'] = 'API';
+$_L['API Access'] = 'API Access';
+$_L['Add API Access'] = 'Add API Access';
+$_L['Label'] = 'Label';
+$_L['API Key'] = 'API Key';
+$_L['Regenerate'] = 'Regenerate';
+$_L['Application URL'] = 'Application URL';
+
+
+# V3.1.0
+$_L['API Access Added'] = 'API Access Added';
+$_L['select_a_contact'] = 'Please select a Contact';
+$_L['at_least_one_item_required'] = 'At least one item is required';
+$_L['Subject is Required'] = 'Subject is Required';
+$_L['Unique Quote URL'] = 'Unique Quote URL';
+
+# V3.3.0
+$_L['Default Invoice Terms'] = 'Default Invoice Terms';
+$_L['Additional Settings'] = 'Additional Settings';
+$_L['cron_invoice_created'] = 'CRON Job - Automatically Send Invoice Created Email';
+
+# V3.4.0
+
+$_L['Invoice Creation Method'] = 'Invoice Creation Method';
+$_L['Default'] = 'Default';
+$_L['V2'] = 'V2';
+
