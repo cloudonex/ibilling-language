@@ -1,21 +1,21 @@
 <?php
 /*
 ------------------------------------------
-Language: English
+Language: Czech
 Author: Sadia Sharmin
 Author Email: sadiasharmin3139@gmail.com
 Author Website: http://www.ibilling.io
 ------------------------------------------
 */
 
-$_L['Login'] = 'Login';
-$_L['Edit'] = 'Edit';
-$_L['Delete'] = 'Delete';
-$_L['Account'] = 'Account';
-$_L['Date'] = 'Date';
-$_L['Financial_Balances'] = 'Financial Balances';
-$_L['Add_New_Account'] = 'Add New Account';
-$_L['Manage_Accounts'] = 'Manage Accounts';
+$_L['Login'] = 'Přihlásit';
+$_L['Edit'] = 'Opravit';
+$_L['Delete'] = 'Smazat';
+$_L['Account'] = 'Účet';
+$_L['Date'] = 'Datum';
+$_L['Financial_Balances'] = 'Keš flow';
+$_L['Add_New_Account'] = 'Přidat nový účet';
+$_L['Manage_Accounts'] = 'Opravit účet';
 $_L['initial_balance'] = 'Initial Balance';
 $_L['account_created_successfully'] = 'Account Created Successfully';
 $_L['account_updated_successfully'] = 'Account Updated Successfully';
